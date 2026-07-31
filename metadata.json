@@ -1,0 +1,6 @@
+{
+  "name": "VM Terminal",
+  "description": "A mobile-first economic data terminal inspired by Bloomberg, featuring real-time charts, news, calendar, and forex heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
